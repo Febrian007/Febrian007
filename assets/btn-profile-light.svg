@@ -1,0 +1,14 @@
+<svg width="210" height="36" viewBox="0 0 210 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.mono { font-family: "Courier New", Courier, monospace; font-weight: 700; }</style>
+  
+  <rect x="2" y="0" width="206" height="36" fill="#d0d7de"/>
+  <rect x="0" y="2" width="210" height="32" fill="#d0d7de"/>
+  <rect x="4" y="2" width="202" height="32" fill="#f6f8fa"/>
+  <rect x="2" y="4" width="206" height="28" fill="#f6f8fa"/>
+  <rect x="2" y="2" width="2" height="2" fill="#0969da"/>
+  <rect x="206" y="2" width="2" height="2" fill="#0969da"/>
+  <rect x="2" y="32" width="2" height="2" fill="#0969da"/>
+  <rect x="206" y="32" width="2" height="2" fill="#0969da"/>
+
+  <text x="105" y="22" text-anchor="middle" fill="#1f2328" font-size="12" class="mono">[ GITHUB @FEBRIAN007 ]</text>
+</svg>
